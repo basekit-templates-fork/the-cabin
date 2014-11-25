@@ -1,23 +1,23 @@
 {
-    "name":"Oliver Thames",
-    "thumbnail":"oliver.png",
+    "name":"The Cabin",
+    "thumbnail":"the-cabin.png",
     "templateType":"standard",
     "images":["/images/feature-bg.jpg"],
     "pageTypes":["home"],
     "tags": {
-    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "creative", "elegant", "professional", "unique", "media", "sans-serif"],
+    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "full-screen", "elegant", "professional", "pub", "bar", "media", "sans-serif"],
     "es": ["minimalista", "limpio", "fotografico", "vintage", "moderno", "oscuro", "estudio", "website", "creativo", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
     "br": ["minimalista", "limpo", "fotografia", "vintage", "moderno", "escuro", "estúdio", "website", "criativo", "elegante", "profissional", "único", "mídia", "sans-serif"]
     },
     "colorSwatches":
     {
         "Swatch 1": {
-            "color1":"#000000",
-            "color2":"#282828",
-            "color3":"#20a0c0",
-            "color4":"#3b3b3b",
+            "color1":"#111111",
+            "color2":"#7eb497",
+            "color3":"#387454",
+            "color4":"#2d2d2d",
             "color5":"#a8a9a9",
-            "color6":"#dad9d9",
+            "color6":"#2d2d2d",
             "color7":"#ffffff"
         },
         "Swatch 2": {
@@ -39,12 +39,12 @@
             "color7":"#ffffff"
         },
         "Swatch 4": {
-            "color1":"#111111",
-            "color2":"#7eb497",
-            "color3":"#387454",
-            "color4":"#2d2d2d",
+            "color1":"#000000",
+            "color2":"#282828",
+            "color3":"#20a0c0",
+            "color4":"#3b3b3b",
             "color5":"#a8a9a9",
-            "color6":"#2d2d2d",
+            "color6":"#dad9d9",
             "color7":"#ffffff"
         },
         "Swatch 5": {
@@ -60,7 +60,7 @@
     "fontSwatch": {
        "title": "Driod Sans",
         "font1": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "34px",
             "font-weight": "400",
             "line-height": "44px",
@@ -68,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "22px",
             "font-weight": "400",
             "line-height": "36px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "20px",
             "font-weight": "400",
             "line-height": "28px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "24px",
@@ -92,7 +92,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "800",
             "line-height": "25px",
@@ -100,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "800",
             "line-height": "26px",
@@ -111,7 +111,7 @@
             "background-color-hover": "transparent"
         },
         "font7": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "28px",
@@ -137,7 +137,7 @@
             "letter-spacing": "2px"
         },
         "font10": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "24px",
             "letter-spacing": "20px",
             "font-weight": "600",
