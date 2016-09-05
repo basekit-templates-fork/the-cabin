@@ -1,64 +1,113 @@
 {
-    "name":"The Cabin",
-    "thumbnail":"the-cabin.png",
-    "templateType":"standard",
-    "images":["/images/feature-bg.jpg"],
-    "pageTypes":["home"],
+    "name": "The Cabin",
+    "thumbnail": "the-cabin.png",
+    "templateType": "standard",
+    "images": [
+        "/images/feature-bg.jpg"
+    ],
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "full-screen", "elegant", "professional", "pub", "bar", "media", "sans-serif"],
-    "es": ["minimalista", "limpio", "fotografico", "vintage", "moderno", "oscuro", "estudio", "website", "creativo", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
-    "br": ["minimalista", "limpo", "fotografia", "vintage", "moderno", "escuro", "estúdio", "website", "criativo", "elegante", "profissional", "único", "mídia", "sans-serif"]
+        "en": [
+            "minimal",
+            "clean",
+            "photography",
+            "vintage",
+            "modern",
+            "dark",
+            "studio",
+            "website",
+            "full-screen",
+            "elegant",
+            "professional",
+            "pub",
+            "bar",
+            "media",
+            "sans-serif"
+        ],
+        "es": [
+            "minimalista",
+            "limpio",
+            "fotografico",
+            "vintage",
+            "moderno",
+            "oscuro",
+            "estudio",
+            "website",
+            "creativo",
+            "elegante",
+            "profesional",
+            "unico",
+            "comunicacion",
+            "sans-serif"
+        ],
+        "br": [
+            "minimalista",
+            "limpo",
+            "fotografia",
+            "vintage",
+            "moderno",
+            "escuro",
+            "est\u00fadio",
+            "website",
+            "criativo",
+            "elegante",
+            "profissional",
+            "\u00fanico",
+            "m\u00eddia",
+            "sans-serif"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#111111",
-            "color2":"#7eb497",
-            "color3":"#387454",
-            "color4":"#2d2d2d",
-            "color5":"#a8a9a9",
-            "color6":"#2d2d2d",
-            "color7":"#ffffff"
+            "color1": "#111111",
+            "color2": "#7eb497",
+            "color3": "#387454",
+            "color4": "#2d2d2d",
+            "color5": "#a8a9a9",
+            "color6": "#2d2d2d",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#342107",
-            "color2":"#3b3b3b",
-            "color3":"#3e2a13",
-            "color4":"#3c4a55",
-            "color5":"#a8a9a9",
-            "color6":"#3b3b3b",
-            "color7":"#ffffff"
+            "color1": "#342107",
+            "color2": "#3b3b3b",
+            "color3": "#3e2a13",
+            "color4": "#3c4a55",
+            "color5": "#a8a9a9",
+            "color6": "#3b3b3b",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#2c3944",
-            "color2":"#2c3944",
-            "color3":"#050929",
-            "color4":"#2F343B",
-            "color5":"#a8a9a9",
-            "color6":"#2F343B",
-            "color7":"#ffffff"
+            "color1": "#2c3944",
+            "color2": "#2c3944",
+            "color3": "#050929",
+            "color4": "#2F343B",
+            "color5": "#a8a9a9",
+            "color6": "#2F343B",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#000000",
-            "color2":"#282828",
-            "color3":"#20a0c0",
-            "color4":"#3b3b3b",
-            "color5":"#a8a9a9",
-            "color6":"#dad9d9",
-            "color7":"#ffffff"
+            "color1": "#000000",
+            "color2": "#282828",
+            "color3": "#20a0c0",
+            "color4": "#3b3b3b",
+            "color5": "#a8a9a9",
+            "color6": "#dad9d9",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#011a18",
-            "color2":"#1a2334",
-            "color3":"#477064",
-            "color4":"#1a2334",
-            "color5":"#a8a9a9",
-            "color6":"#9bd6cf",
-            "color7":"#FFFFFF"
+            "color1": "#011a18",
+            "color2": "#1a2334",
+            "color3": "#477064",
+            "color4": "#1a2334",
+            "color5": "#a8a9a9",
+            "color6": "#9bd6cf",
+            "color7": "#FFFFFF"
         }
     },
     "fontSwatch": {
-       "title": "Driod Sans",
+        "title": "Driod Sans",
         "font1": {
             "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "34px",
@@ -139,11 +188,11 @@
         "font10": {
             "font-family": "\"Droid Serif\", Georgia, serif",
             "font-size": "24px",
-            "letter-spacing": "20px",
+            "letter-spacing": "inherit",
             "font-weight": "600",
             "line-height": "34px",
-            "color": "@color-swatch7",
-            "letter-spacing": "inherit"
+            "color": "@color-swatch7"
         }
-    }
+    },
+    "screenshot": "the-cabin-screenshot.jpg"
 }
